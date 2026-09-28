@@ -1,7 +1,7 @@
-# Incident Report: Sample 03 - Crypto-Drainer / Web3 Phishing
+# Incident Report: Sample 02 - Crypto-Drainer / Web3 Phishing
 
 ## 1. Incident Overview
-* **Sample ID:** Sample 03
+* **Sample ID:** Sample 02
 * **Threat Type:** Web3 Phishing / Crypto-Drainer
 * **Impersonated Brand:** MetaMask
 * **Detection Status:** Bypassed standard spam filters due to abused third-party bulk-mailing infrastructure; passed SPF and DKIM authentication.
