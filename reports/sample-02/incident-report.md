@@ -9,7 +9,7 @@
 ---
 
 ## 2. Executive Summary
-Sample 03 represents an advanced phishing vector targeting cryptocurrency holders. Rather than forging headers directly, the threat actor abused a legitimate third-party mass-marketing and newsletter platform (`anpdm.com`) to dispatch a fraudulent security alert. The email leverages severe urgency and fear tactics, claiming a user's wallet is blocked due to Ethereum network updates, and directs the victim to a malicious redirection link designed to harvest wallet credentials or private keys.
+Sample 02 represents an advanced phishing vector targeting cryptocurrency holders. Rather than forging headers directly, the threat actor abused a legitimate third-party mass-marketing and newsletter platform (`anpdm.com`) to dispatch a fraudulent security alert. The email leverages severe urgency and fear tactics, claiming a user's wallet is blocked due to Ethereum network updates, and directs the victim to a malicious redirection link designed to harvest wallet credentials or private keys.
 
 ---
 
