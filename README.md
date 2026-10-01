@@ -11,4 +11,10 @@ This repository contains documentation and technical analysis for various email-
 ## Directory Structure
 * `reports/` - Detailed Markdown reports for individual phishing investigations (e.g., brand impersonation, credential harvesting).
 * `samples/` - Raw `.eml` files and sanitized email samples analyzed in the reports.
+## Automation
+After working through these email samples, I decided to try and build a python script that automates email header verification.
+Here is what it does:
+* **Interactive File Input:** Prompts you to input the local filepath to a raw `.eml` sample to begin parsing immediately.
+* **Streamlined Triage:** Quickly extracts sender details and checks for **SPF**, **DKIM**, and **DMARC** statuses.
+* **Efficiency Boost:** Eliminates the need for manual DNS lookups, speeding up the initial phase of email header analysis.
 
